@@ -7,6 +7,7 @@ import io.cucumber.java.en.When;
 public class Def_cuentaTercero {
 //agrego cuarto commit
     // agrego quinto commit
+// agrego sexto commit
     Cuenta cuenta;
 
     @When("Ingreso en el campo Rut el valor distinto al rut de la organizacion {string}")
