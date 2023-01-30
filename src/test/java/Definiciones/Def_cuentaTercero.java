@@ -13,6 +13,7 @@ public class Def_cuentaTercero {
 // agrego noveno commit
 // agrego decimo commit
 // agrego 11 commit
+// agrego 12 commit
     Cuenta cuenta;
 
     @When("Ingreso en el campo Rut el valor distinto al rut de la organizacion {string}")
